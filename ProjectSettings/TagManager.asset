@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Jump
+  - Car
+  - CheckPoint
+  - OuterSurface
+  - InnerSurface
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Surface
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tracks
+    uniqueID: 4071478665
+    locked: 0
+  - name: Background
+    uniqueID: 86006483
+    locked: 0
+  - name: Skidmarks
+    uniqueID: 1608457165
+    locked: 0
+  - name: Car
+    uniqueID: 3910253345
+    locked: 0
+  - name: ' Particles'
+    uniqueID: 3146931855
+    locked: 0
+  - name: Lap
+    uniqueID: 698499007
+    locked: 0
+  - name: restart
+    uniqueID: 1537761863
+    locked: 0
